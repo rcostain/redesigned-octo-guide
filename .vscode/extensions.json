@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "ritwickdey.liveserver",
+        "anbuselvanrocky.bootstrap5-vscode",
+        "ms-vscode.vscode-github-issue-notebooks",
+        "github.vscode-pull-request-github",
+        "github.remotehub",
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "tht13.html-preview-vscode",
+        "abusaidm.html-snippets",
+        "xabikos.javascriptsnippets"
+    ]
+}
